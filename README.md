@@ -18,6 +18,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;">
    
   </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/enoch_cheklie/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="vertical-align: middle;">
+   
+  </a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
