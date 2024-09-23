@@ -18,7 +18,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
   <a href="https://www.instagram.com/enoch_cheklie/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="vertical-align: middle;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
+  </a>
+ <a href="https://t.me/EnochCheklie">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Telegram_logo.svg" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
   </a>
 </p>
 
