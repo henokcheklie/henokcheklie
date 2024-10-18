@@ -20,6 +20,9 @@
   <a href="https://github.com/henokcheklie" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
+      <a href="mailto:henokcheklie@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Mail_icon.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+  </a>
   <a href="https://www.instagram.com/enoch_cheklie/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
