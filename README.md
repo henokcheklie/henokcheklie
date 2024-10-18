@@ -14,17 +14,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/henok-cheklie/">
+    <a href="https://www.linkedin.com/in/henok-cheklie/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
-  <a href="https://github.com/henokcheklie">
+  <a href="https://github.com/henokcheklie" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
-  <a href="https://www.instagram.com/enoch_cheklie/">
+  <a href="https://www.instagram.com/enoch_cheklie/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
- <a href="https://t.me/EnochCheklie">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
+ <a href="https://t.me/EnochCheklie" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
   </a>
 </p>
 
