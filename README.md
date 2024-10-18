@@ -14,6 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/henok-cheklie/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-linkedin.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
+  </a>
   <a href="https://github.com/henokcheklie">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle; margin-right: 40px;">
   </a>
