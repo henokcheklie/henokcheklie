@@ -40,7 +40,7 @@
   </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> <a href="https://docs.page/schultek/jaspr" target="_blank" rel="noreferrer"> 
-  <img src="https://your-image-hosting.com/path-to-jaspr-logo.svg" alt="jaspr" width="40" height="40"/> 
+  <img src="https://docs.page/schultek/jaspr" alt="jaspr" width="40" height="40"/> 
 </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
